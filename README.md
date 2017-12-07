@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/axetroy/wheel-timer.svg?branch=master)](https://travis-ci.org/axetroy/wheel-timer)
 [![Coverage Status](https://coveralls.io/repos/github/axetroy/wheel-timer/badge.svg?branch=master)](https://coveralls.io/github/axetroy/wheel-timer?branch=master)
 ![License](https://img.shields.io/badge/license-Apache-green.svg)
-![Size](https://github-size-badge.herokuapp.com/gpmer/gpm.js.svg)
+![Size](https://github-size-badge.herokuapp.com/axetroy/wheel-timer.svg)
 
 ## Usage
 
