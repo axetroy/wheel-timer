@@ -28,7 +28,7 @@ go test -v
 
 ## Related
 
-[wheel-timer.js](https://github.com/axetroy/wheel-timer.js): Hashed and Hierarchical Timing Wheels Implement
+[wheel-timer.js](https://github.com/axetroy/wheel-timer.js): Hashed and Hierarchical Timing Wheels Implement for Javascript
 
 ## Contributors
 
